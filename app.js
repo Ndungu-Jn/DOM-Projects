@@ -38,5 +38,6 @@ const emojis = [
 ];
 
 btn.addEventListener("mouseover", () => {
-  btn.innerText = emojis[Math.floor(Math.random() * emojis.length)];
+  //when the mouses passes over.
+  btn.innerText = emojis[Math.floor(Math.random() * emojis.length)]; //getting the random emoji now
 });
