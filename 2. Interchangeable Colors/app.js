@@ -6,16 +6,16 @@ const body = document.body;
 // Iterating over all buttons
 btns.forEach((btn) => {
   btn.addEventListener("click", () => {
-    number = btn.value;
-    changeBackground(number);
+    color = btn.value;
+    changeBackground(color);
   });
 });
 
-function changeBackground(number) {
+function changeBackground(color) {
   // console.log(number);
   body.className = "";
 
-  switch (number) {
+  switch (color) {
     case "purple":
       body.classList.add("purple");
       break;
