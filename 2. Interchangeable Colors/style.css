@@ -43,6 +43,9 @@ body {
 .teal {
   background-color: teal;
 }
+.indigo {
+  background-color: indigo;
+}
 
 .content-container {
   height: 100vh;
