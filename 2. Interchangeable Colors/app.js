@@ -34,6 +34,9 @@ function changeBackground(number) {
     case "teal":
       body.classList.add("teal");
       break;
+    case "indigo":
+      body.classList.add("indigo");
+      break;
     default:
       break;
   }
