@@ -1,4 +1,4 @@
-# Colorize Background - DOM Manipulation Project
+# 2.Interchangeble Colors - DOM Manipulation Project
 
 This is a simple web project built to practice and demonstrate DOM (Document Object Model) manipulation using JavaScript, HTML, and CSS. The project allows users to dynamically change or colorize the webpage element by interacting with buttons or other elements on the page.
 
